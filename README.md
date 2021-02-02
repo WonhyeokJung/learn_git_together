@@ -6,3 +6,4 @@ pair 와 git remote 협업하기
 거란족
 족발
 발바닥
+닥터
